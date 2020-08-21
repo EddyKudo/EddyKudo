@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Eddy 👋
+
+![GitHub Logo](https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg)<br>
+
+<b>I'm A Full Stack Web Developer who started his journey in development more then a 3 years ago. I always been passionate about code and tried to learn it my self but only could achieve some knowledge in HTML and CSS. Last year I've attended a bootcamp that helped me to become an Software Engenner with boosting my knowledge in React.Js, Bootstrap, Python, JavaScript, NodeJs, SQL and many more. I'm a world traveler with background in Marketing and Aviation areas. Check out my projects and get in touch with me!😄<b><br>
+  
+## My Contacts 🔎:
+
+##<pre>[LinkedIn](https://www.linkedin.com/in/eduard-full-stack-web-dev/)   [Facebook](https://www.facebook.com/eduard.kitikari)
 
 <!--
 **EddyKudo/EddyKudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
