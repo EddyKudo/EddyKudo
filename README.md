@@ -6,8 +6,7 @@
   
 ## My Contacts 🔎:
 
-##<pre>[LinkedIn](https://www.linkedin.com/in/eduard-full-stack-web-dev/)   [Facebook](https://www.facebook.com/eduard.kitikari)
-
+## <pre>[LinkedIn](https://www.linkedin.com/in/eduard-full-stack-web-dev/)   [Facebook](https://www.facebook.com/eduard.kitikari)
 <!--
 **EddyKudo/EddyKudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
